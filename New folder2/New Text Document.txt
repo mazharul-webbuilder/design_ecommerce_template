@@ -1,0 +1,61 @@
+background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/flexfun04.jpg');
+
+
+
+				<div style="background-image:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/flexfun01.jpg');" class="col col-md d-flex align-items-center justify-content-center">
+                                    <!--slider details-->
+                                    <div class="slider-main-detail align-self-end text-center mb-2" >
+                                        <div class="slider-detail text-left ps-2">
+                                            <div class="product-detail">
+                                                <h5 style="color: white;">Computer</h5>
+                                                <h5 class="detail-price" style="color: white">$692.41</h5>
+                                            </div>
+                                        </div>
+                                        <div class="cart-section">
+                                            <div class="row">
+                                                <div class="col-md-6 col-sm-12 col-xs-6 review" style="color: gold;">
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star-o" aria-hidden="true"></i>
+                                                    <i class="fa fa-star-o" aria-hidden="true"></i>
+                                                </div>
+                                                <div class="col-md-6 col-sm-12 col-xs-6">
+                                                    <a href="#" class="AddCart btn btn-info"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Add To Cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--end slider details-->
+                                </div>
+
+
+
+
+            <div class="image-container" style="height: 75%; background-color: white; border-radius: .5rem;">
+                <img src="chocolate_4.jpg" class="large-img">
+            </div>
+            <div class="d-flex cart-details justify-content-center align-items-center" style=" height: 25%;">
+                <div class="slider-main-detail">
+                    <div class="slider-detail d-flex justify-content-center align-items-center">
+                        <div class="product-detail">
+                            <h5>iPad Pro</h5>
+                            <h5 class="detail-price">$692.41</h5>
+                        </div>
+                    </div>
+                    <div class="cart-section">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12 col-xs-6 review">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star-o" aria-hidden="true"></i>
+                                <i class="fa fa-star-o" aria-hidden="true"></i>
+                            </div>
+                            <div class="col-md-6 col-sm-12 col-xs-6">
+                                <a href="#" class="AddCart btn btn-info"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Add To Cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
